@@ -1,0 +1,3 @@
+- Write basic game requirements 
+- Read about ebiten more to better undestand how to design code
+- Create basic structure 
